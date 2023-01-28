@@ -1,6 +1,5 @@
 # RasPiEsi
-RasPiEsi - The World's Smallest Open Source ERP Server
-Epesi on Raspberry Pi Zero
+RasPiEsi - The World's Smallest Open Source ERP Server with Epesi BIM on Raspberry Pi Zero
 
 ## Free and Open Source ERP Application Server
 RPi Zero has only 1 CPU and 512MB of RAM
