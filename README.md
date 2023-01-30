@@ -8,12 +8,14 @@
 Thanks to the excellent DietPi distro this tiny server runs Epesi surprisingly well especially on a fast SD card.
 It should run unmodified on any Raspberry Pi - from the lowest end $5 RPi Zero with no WiFi and 1 CPU and 512 MB of RAM (used to create this disk image), to the high end RPi 4. Tested fine on RPi 3 - unmodified, just swapped between units!
 
+![RasPiEsi-banner.jpg](RasPiEsi-banner.jpg)
+
 For WiFi models run DietPi configuration utility.
 
-Default logins:
-- SSH: u:root p:Epe$i123
-- Epesi: u:epesi p:epesi123
-- MariaDB admin: u: p:
+> Default logins:
+> - SSH: u:root p:Epe$i123
+> - Epesi: u:epesi p:epesi123
+> - MariaDB admin: u: p:
 
 To run just download the image and write to SD card using Balena Etcher (Linux, Windows, OS X versions available) and boot the Raspberry Pi Zero connected to the network via USB Ethernet adapter and with a monitor attached to see the IP address (DHCP and no WiFi is the default mode). Alternatively you can find out assigned IP address from the router's DHCP leases list.
 
