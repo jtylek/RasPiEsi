@@ -24,7 +24,12 @@ with https://hackaday.com/2022/09/20/its-pi-all-the-way-down-with-this-pi-powere
 Thanks to the excellent **DietPi** distro this tiny server runs Epesi surprisingly well especially on a fast SD card.
 It should run unmodified on any Raspberry Pi - from the lowest end **$5 RPi Zero with no WiFi and 1 CPU and 512 MB of RAM** (used to create this disk image), to the high end RPi 4. Tested fine on RPi 3 - unmodified, just swapped between units!
 
+**RasPiEsi** is an integral part of **Epesi ENS = Epesi Enterprise Nervous System**
+
 ![Header](./epesi-github-header-image.png)
+
+See https://github.com/jtylek/OSENS for Open Source Enterprise Nervous System
+Manifesto and sign it if you like the idea. Thank you in advance!
 
 
 For WiFi models run DietPi configuration utility.
