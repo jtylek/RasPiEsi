@@ -1,6 +1,18 @@
 ![RasPiEsi-banner.jpg](./RasPiEsi-banner.jpg)
 
-# RasPiEsi <= Epesi on Raspberry Pi
+## RasPiEsi = GPIO enabled Epesi on Raspberry Pi
+
+By running Epesi on Raspberry Pi or compatible SBC you can programatically access GPIO port using:
+### https://github.com/ronanguilloux/php-gpio
+
+## For building real life, small business budget oriented, robotics and other similar solutions where interaction with the real world via GPIO enabled web application is required.
+
+Example: https://github.com/jtylek/EpesiWarehouse, which is a supply chain management solution in addition to WHS (Warehouse Management System) connected
+with https://hackaday.com/2022/09/20/its-pi-all-the-way-down-with-this-pi-powered-pi-picking-robot/
+
+[![Click to watch the video](https://hackaday.com/wp-content/uploads/2022/09/Screenshot-2022-09-20-at-10-08-44-Raspberry-Pi-Picking-Robot-from-Little-Bird-Little-Bird-Electro-on-Vimeo.png?w=800)](https://vimeo.com/749777452/3b81c96ac8)
+
+**Click the image to watch the video.**
 
 > **RasPiEsi** is The World's Smallest Open Source ERP Application Server powered by **Epesi** and running on $5 USD **Raspberry Pi Zero**.
 
