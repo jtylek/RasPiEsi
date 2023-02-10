@@ -43,11 +43,15 @@ For WiFi models run DietPi configuration utility.
 
 To run just download the image and write to SD card using Balena Etcher (Linux, Windows, OS X versions available) and boot the Raspberry Pi Zero connected to the network via USB Ethernet adapter and with a monitor attached to see the IP address (DHCP and no WiFi is the default mode). Alternatively you can find out assigned IP address from the router's DHCP leases list.
 
-## Open **http://Ras.Pi.Esi.IPaddress**
+### Open browser and point to **http://RasberryPi.Epesi.IP.Address**
 Login into Epesi as: "epesi" with password "epesi123"
 Follow instructions from notes on your Epesi DashBoard.
 
 Enjoy!
+
+## WARNING!
+### Not for production use!
+For experiments only. For production Epesi, MariaDB, root, user and all possible passwords including entries in /data/config.php would have to be changed from the default. They were created to jump start the project. In addition to all password changes some additional steps to harden Linux kernel and configure SSH deamon and firewall are needed, which are beyond the scope of this project at this time. An appopriate guide may be added later.
 
 P.S. Please open an issue if you found a bug and document well steps how to reproduce that error.
 Don't open issues for new features requests - for this contact me directly via e-mail **j[at]epe.si**
