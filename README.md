@@ -5,7 +5,9 @@
 By running Epesi on Raspberry Pi or compatible SBC you can programatically access GPIO port using:
 ### https://github.com/ronanguilloux/php-gpio
 
-## For building real life, small business budget oriented, robotics and other similar solutions where interaction with the real world via GPIO enabled web application is required.
+![GPIO](https://camo.githubusercontent.com/98e8da0599ce0c7ffbe383cf4bb224283bb8a0fe084ed8e2c26ce1c571cc1bf0/68747470733a2f2f7261772e6769746875622e636f6d2f726f6e616e6775696c6c6f75782f74656d70657261747572652d70692f6d61737465722f7265736f75726365732f696d616765732f6d6f756e74696e672e6a7067)
+
+For building real life, small business budget oriented, robotics and other similar solutions where interaction with the real world via GPIO enabled web application is required.
 
 Example: https://github.com/jtylek/EpesiWarehouse, which is a supply chain management solution in addition to WHS (Warehouse Management System) connected
 with https://hackaday.com/2022/09/20/its-pi-all-the-way-down-with-this-pi-powered-pi-picking-robot/
