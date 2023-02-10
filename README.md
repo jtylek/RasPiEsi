@@ -57,5 +57,15 @@ RPi Zero has only 1 CPU and 512MB of RAM
 This image can be freely downloaded and modified.
 Tested on RPi Zero and RPi 3
 
+Credits:
+
+![DietPi Logo](https://dietpi.com/images/dietpi-logo_360x360.png)
+
+## https://dietpi.com/
+
+plus of course LAMP stack and a lot of Free and Open Source Software.
+
+Thank you FOSS Developers!
+
 ## MIT License
 Copyright (c) 2023 by Janusz Tylek
