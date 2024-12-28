@@ -2,6 +2,9 @@
 
 ## RasPiEsi = GPIO enabled Epesi on Raspberry Pi
 
+Download the release image file from:
+https://github.com/jtylek/RasPiEsi/releases/tag/RasPiEsi
+
 By running Epesi on Raspberry Pi or compatible SBC you can programatically access GPIO port using:
 ### https://github.com/ronanguilloux/php-gpio
 ### https://github.com/ronanguilloux/php-gpio-web
